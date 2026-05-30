@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Cynthia 👋
 
-<!--
-**Cycydowks/Cycydowks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chemical Engineer navigating the world of tech — bridging science and data to build meaningful things.
 
-Here are some ideas to get you started:
+🎓 **B.Sc. Chemical Engineering** · Technical University of Kenya  
+🎓 **M.Sc. Chemical & Life Science Engineering** · Virginia Commonwealth University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On
+Exploring the intersection of engineering and data, building projects that apply analytical thinking to real-world problems.
+
+🌱 Currently Learning Python for data analysis and Machine learning & AI fundamentals.
+
+👯 Looking to Collaborate On
+Projects that sit at the crossroads of engineering, data science and impact.
