@@ -1,6 +1,6 @@
 # Hi, I'm Cynthia 👋
 
-Chemical Engineer navigating the world of tech — bridging science and data to build meaningful things.
+Chemical Engineer navigating the world of tech, bridging science and data to build meaningful things.
 
 🎓 **B.Sc. Chemical Engineering** · Technical University of Kenya  
 🎓 **M.Sc. Chemical & Life Science Engineering** · Virginia Commonwealth University
